@@ -28,3 +28,13 @@ Kconfig
     http://www.cnblogs.com/Daniel-G/archive/2013/08/27/3284791.html
 get_per_cpu()
     http://www.wowotech.net/kernel_synchronization/per-cpu.html
+jiffies
+    http://www.cnblogs.com/simonshi/archive/2010/12/13/1694819.html
+ipip
+    http://blog.csdn.net/starxu85/article/details/4301357
+vim跳转
+    http://blog.csdn.net/s467626472/article/details/52669723
+    http://www.cnblogs.com/fakis/archive/2011/04/14/2016213.html
+icmp协议
+    http://blog.csdn.net/tycoon1988/article/details/39369887
+    看一下tcp/ip卷一
