@@ -22,12 +22,7 @@ iptables
     https://www.ibm.com/developerworks/cn/linux/network/s-netip/index.html
     http://www.cnblogs.com/LittleHann/p/3708222.html
 netfilter
-    http://blog.chinaunix.net/uid-23069658-id-3160506.html
-    http://blog.chinaunix.net/uid-20498361-id-3078906.html
-   *http://blog.csdn.net/jasonchen_gbd/article/details/44873089
     https://wenku.baidu.com/view/975d477da26925c52cc5bfe6.html
-    http://blog.csdn.net/rosetta/article/details/7591312
-    https://www.ibm.com/developerworks/cn/linux/network/l-netip/index.html
     https://www.ibm.com/developerworks/cn/linux/l-ntflt/index.html
 Kconfig
     http://www.cnblogs.com/Daniel-G/archive/2013/08/27/3284791.html
