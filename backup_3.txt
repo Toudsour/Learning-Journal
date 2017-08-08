@@ -1,0 +1,25 @@
+uuid
+    http://www.cnblogs.com/phpfans/p/5087899.html
+ntp
+    https://www.zhihu.com/question/30252609
+    http://blog.csdn.net/suer0101/article/details/7868813
+add eth
+    http://blog.csdn.net/hzhsan/article/details/44677867
+    http://blog.csdn.net/cmzsteven/article/details/49049367
+find 
+    http://www.cnblogs.com/wanqieddy/archive/2011/06/09/2076785.html
+Xargs
+    http://blog.csdn.net/zhangfn2011/article/details/6776925/
+iconv
+    http://blog.csdn.net/ownfire/article/details/8295443
+Linux change
+    https://www.zhihu.com/question/35484429
+Linux Makefile 
+    http://blog.sina.com.cn/s/articlelist_2277532422_7_1.html
+Linux Debug
+    https://www.ibm.com/developerworks/cn/linux/l-kdb/#author
+    http://blog.csdn.net/gong0791/article/details/48528295
+search
+    http://www.sohu.com/a/143176209_463994
+    https://www.ibm.com/developerworks/cn/java/j-lo-lucene1/index.html  
+
