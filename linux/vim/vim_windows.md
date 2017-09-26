@@ -1,14 +1,17 @@
 #VIM多窗口
 ##新建窗口
 **横向切割**
+
 - new  窗口名
 - split/sp 文件名
 
 **纵向切割**
+
 - vnew 文件名
 - vsplit/vsp 文件名
 
 **一次打开多个**
+
 - vim -o a b c 横向切割展示所有文件
 - all 横向切割暂时所有文件
 - vertical all 很想
@@ -22,6 +25,7 @@
 
 ##窗口大小调整
 **横向调整**
+
 - ctrl w + :行数增大
 - ctrl w - :行数减小
 - res(ize) num :行数固定为num行
@@ -29,6 +33,7 @@
 - res(ize) - num :行数减小num行
 
 **纵向调整**
+
 - vertical res(ize) num :列数固定为num行
 - vertical res(ize) + num :列数增大num行
 - vertical res(ize) - num :列数减小num行
@@ -52,6 +57,6 @@
 
 
 ##参考
-[高效编辑器vim之窗口分割](http://blog.csdn.net/shallnet/article/details/14519771)
-[vim多窗口使用技巧](http://blog.csdn.net/devil_2009/article/details/7006113)
+- [高效编辑器vim之窗口分割](http://blog.csdn.net/shallnet/article/details/14519771)
+- [vim多窗口使用技巧](http://blog.csdn.net/devil_2009/article/details/7006113)
 
