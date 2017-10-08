@@ -1,0 +1,20 @@
+http://blog.csdn.net/wenqian1991/article/details/50379172
+http://blog.csdn.net/zcabcd123/article/details/8272423
+http://blog.chinaunix.net/uid-9950859-id-98548.html
+http://laokaddk.blog.51cto.com/368606/949286
+http://www.cnblogs.com/wenqiang/p/6634447.html
+http://blog.chinaunix.net/uid-8384464-id-2031534.html
+http://blog.chinaunix.net/uid-15014334-id-5587278.html
+http://blog.csdn.net/jk110333/article/details/8642261
+
+
+----------------------------------------
+setsockopt
+http://www.cnblogs.com/qq78292959/archive/2013/01/18/2865926.html
+http://blog.chinaunix.net/uid-24517549-id-4044883.html
+
+-----------------------------------------
+socket raw
+http://blog.csdn.net/ctthuangcheng/article/details/9733619
+http://blog.csdn.net/jnu_simba/article/details/12371127
+http://blog.csdn.net/excaliburxk/article/details/7307324
