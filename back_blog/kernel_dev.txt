@@ -1,0 +1,18 @@
+Linux内核编译选项
+    http://blog.csdn.net/colin_zhen/article/details/7057374
+Linux内核编译
+    http://blog.csdn.net/quqi99/article/details/8546687
+    http://www.cnblogs.com/huapox/p/3516314.html
+    http://blog.csdn.net/crazycoder8848/article/details/44132731
+    http://blog.csdn.net/crazycoder8848/article/details/44131735
+    http://blog.csdn.net/david_xtd/article/details/26502709
+    http://www.cnblogs.com/yechuang/p/4498853.html
+Kconfig
+    http://www.cnblogs.com/Daniel-G/archive/2013/08/27/3284791.html
+Linux Makefile 
+    http://blog.sina.com.cn/s/articlelist_2277532422_7_1.html
+Linux Debug
+    https://www.ibm.com/developerworks/cn/linux/l-kdb/#author
+    http://blog.csdn.net/gong0791/article/details/48528295
+.mod.c文件
+    http://www.cnblogs.com/felixjia/archive/2011/09/15/2178126.html

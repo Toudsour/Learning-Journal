@@ -1,0 +1,9 @@
+uuid
+    http://www.cnblogs.com/phpfans/p/5087899.html
+
+search
+    http://www.sohu.com/a/143176209_463994
+    https://www.ibm.com/developerworks/cn/java/j-lo-lucene1/index.html  
+
+valgrind
+    http://blog.csdn.net/sduliulun/article/details/7732906

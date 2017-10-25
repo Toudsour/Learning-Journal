@@ -1,0 +1,15 @@
+shell 比较
+    http://blog.chinaunix.net/uid-7553302-id-183648.html
+shell 重定向
+    http://blog.csdn.net/songyang516/article/details/6758256
+shell 传参
+    http://blog.chinaunix.net/uid-20672257-id-3345583.html
+shell 符号
+    http://blog.csdn.net/taiyang1987912/article/details/39551385
+shell 调试
+    http://blog.chinaunix.net/uid-20652643-id-1906331.html
+smart rm
+    http://blog.csdn.net/galaxy_li/article/details/7720921
+    http://www.jianshu.com/p/2de3f6aaa98f
+    http://blog.csdn.net/wanyanblog/article/details/5906930
+    http://blog.csdn.net/a3470194/article/details/16863803

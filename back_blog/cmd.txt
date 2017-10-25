@@ -1,0 +1,33 @@
+后台运行&关闭终端运行
+    http://blog.csdn.net/gatieme/article/details/52777721
+    http://blog.csdn.net/liuyanfeier/article/details/62422742
+    https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/
+    http://blog.csdn.net/hshl1214/article/details/50144257
+查看CPU性能等
+    http://www.cnblogs.com/xianghang123/archive/2011/08/25/2153591.html
+    http://blog.sina.com.cn/s/blog_68f1c17001016uvy.html
+
+Linux内存Cache
+    http://www.cnblogs.com/panfeng412/p/drop-caches-under-linux-system.html
+    https://linux.cn/article-211-1.html
+Linux系统下的跑分
+    http://www.361way.com/unixbench-benchmark/3437.html
+查看内存使用状况
+    http://www.cnblogs.com/zhuiluoyu/p/6154898.html
+    http://www.cnblogs.com/rosesmall/archive/2012/05/08/2490522.html
+add eth
+    http://blog.csdn.net/hzhsan/article/details/44677867
+    http://blog.csdn.net/cmzsteven/article/details/49049367
+find 
+    http://www.cnblogs.com/wanqieddy/archive/2011/06/09/2076785.html
+Xargs
+    http://blog.csdn.net/zhangfn2011/article/details/6776925/
+iconv
+    http://blog.csdn.net/ownfire/article/details/8295443
+ntp
+    https://www.zhihu.com/question/30252609
+    http://blog.csdn.net/suer0101/article/details/7868813
+ipconfig套件
+    http://blog.csdn.net/cwm_meng_home/article/details/77676370
+    http://blog.csdn.net/superbfly/article/details/49467159
+    http://blog.csdn.net/he_jian1/article/details/40787269

@@ -1,0 +1,6 @@
+signal
+    http://www.cnblogs.com/my-way/p/5729120.html
+    http://www.cppblog.com/sleepwom/archive/2010/12/27/137564.html
+    http://blog.csdn.net/lanmolei814/article/details/25986747
+unlink
+    http://blog.csdn.net/zzzkiti/article/details/8517146
