@@ -1,0 +1,2 @@
+reset,checkout,revert
+    https://www.cnblogs.com/houpeiyong/p/5890748.html

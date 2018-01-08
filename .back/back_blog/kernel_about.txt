@@ -1,0 +1,9 @@
+init
+    https://www.ibm.com/developerworks/cn/linux/1407_liuming_init1/index.html
+systemd
+    https://linux.cn/article-5457-1.html
+    https://wiki.archlinux.org/index.php/Systemd_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) 
+    http://www.jinbuguo.com/systemd/systemd.html
+    http://blog.jobbole.com/97248/
+    http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html
+    http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-part-two.html
