@@ -1,16 +1,19 @@
-#Linux系统开机过程
-##加载内核
+# Linux系统开机过程
+## 加载内核
 这一部分不详细展开讲，这一部分涉及到硬件底层，在介绍Linux内核的时候再展开讲解，大致过程为BIOS加载grub，grub引导系统内核,内核建立虚拟内存和根目录系统，并启动init
-##init系统
-###简介
+## init系统
+### 简介
 init是系统的第一个程序，当然对于较新的系统而言，有可能不是init，而是systemd，这次我们介绍init，init大致会做这几件事:
+
 - 读取/etc/inittab
 - 执行rc.sysinit里边的脚本
 - 根据/etc/inittab中的文件执行指定/etc/rc.d/rc\*目录下的脚本
 - 执行rc.local
+
 以下就是详解讲解
-###inittab
+### inittab
 这个脚本比较简单，也比较重要，我们先看一下它长什么样:
+
 ```sh
 # inittab is only used by upstart for the default runlevel.
 #
@@ -39,7 +42,9 @@ init是系统的第一个程序，当然对于较新的系统而言，有可能�
 #
 id:3:initdefault:
 ```
+
 基本上都是注释,注释上说明了不同层次的运行等级控制使用什么文件，而inittab决定了整个系统默认等级，运行等级总共有7个，使用了6个，在注释上有说明:
+
 - 0 : 关机，不要使用
 - 1 : 单用户模式
 - 2 : 多用户，但是不能联网

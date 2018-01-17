@@ -1,2 +1,7 @@
 欧拉路
     http://blog.csdn.net/devil2b/article/details/41413743
+AI
+    http://www.cnblogs.com/tuanzang/archive/2013/03/29/2989694.html
+    http://www.cnblogs.com/tuanzang/archive/2013/03/27/2985497.html
+不完备定理
+    http://blog.csdn.net/pongba/article/details/1336028

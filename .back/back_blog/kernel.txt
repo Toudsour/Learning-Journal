@@ -1,3 +1,5 @@
+gfp
+    http://blog.chinaunix.net/uid-30282771-id-5191401.html
 schedule_delay_work
     http://blog.csdn.net/dedlous/article/details/21529425
 seq操作
@@ -37,3 +39,17 @@ RCU同步
 内核Pid 1&2
    http://blog.csdn.net/gatieme/article/details/51566690
    https://coolshell.cn/articles/17998.html
+文件系统
+    http://blog.csdn.net/tankai19880619/article/details/16885615
+    http://blog.csdn.net/tankai19880619/article/details/12093239
+    http://blog.csdn.net/ongoingcre/article/details/50520258
+    https://www.ibm.com/developerworks/cn/linux/l-k26initrd/
+    https://www.ibm.com/developerworks/cn/linux/l-vfs/
+namespace 
+    http://blog.csdn.net/shichaog/article/details/44682541
+    https://www.2cto.com/net/201612/581701.html
+    http://blog.csdn.net/u014211079/article/details/42493971
+路由
+    https://www.cnblogs.com/chanwai1219/archive/2012/11/21/2780131.html
+skb
+    http://blog.csdn.net/dog250/article/details/43637053

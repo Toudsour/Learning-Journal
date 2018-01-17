@@ -1,5 +1,6 @@
 init
     https://www.ibm.com/developerworks/cn/linux/1407_liuming_init1/index.html
+
 systemd
     https://linux.cn/article-5457-1.html
     https://wiki.archlinux.org/index.php/Systemd_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) 
@@ -7,3 +8,17 @@ systemd
     http://blog.jobbole.com/97248/
     http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html
     http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-part-two.html
+    https://www.ibm.com/developerworks/cn/linux/1407_liuming_init3/index.html
+UpStart
+    https://www.ibm.com/developerworks/cn/linux/1407_liuming_init2/index.html
+namespace
+    http://dockone.io/article/76
+    https://segmentfault.com/a/1190000009732550
+kexec
+    https://www.ibm.com/developerworks/cn/linux/l-kexec/
+    https://www.cnblogs.com/wahaha02/p/7152796.html
+kdump
+    http://blog.csdn.net/lucien_cc/article/details/7612249
+    http://blog.csdn.net/lucien_cc/article/details/7611062
+    http://blog.csdn.net/lucien_cc/article/details/7611072
+    http://blog.csdn.net/lucien_cc/article/details/7612144

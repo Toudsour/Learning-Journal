@@ -27,6 +27,8 @@ netfilter
 icmp协议
     http://blog.csdn.net/tycoon1988/article/details/39369887
     看一下tcp/ip卷一
+tcp协议内核实现
+    http://blog.csdn.net/u011130578/article/details/44181503
 tcp—rst
     http://blog.csdn.net/zhangbinalan/article/details/41678105
 tcp-timestamp
